@@ -7,6 +7,7 @@ Source: `C:\FIRST-CC\学校推文\新材料学院宣传部新闻稿撰写要求.
 - Title: 黑体二号/小二, centered.
 - Text under title, images, and review line: 宋体五号, centered. Review line: `审核 王阳合`.
 - Body: 宋体四号, first-line indent 2 characters, 1.5 line spacing. When generating `.docx`, set first-line indent as Word's character-based `首行 2 字符` value when possible, not only an approximate centimeter value.
+- In-article subheadings: use the same font and size as body text, 宋体四号, but set bold and left-align. Do not center subheadings and do not apply first-line indent to subheadings.
 - Images: center-align images, place each image at the corresponding article position.
 - Image captions: place below each image, 宋体五号, centered, concise and descriptive.
 
