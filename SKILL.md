@@ -17,13 +17,15 @@ The original source document is stored at `assets/新材料学院宣传部新闻
 
 1. Gather facts:
    - Confirm the event date in exact `YYYY年M月D日` form.
+   - Confirm the three required news elements before drafting: time, location, and event. If any of these are missing, ask for them instead of drafting around the gap.
    - Confirm event name, location/platform, organizer, participants, speaker names/titles, and key actions.
    - Confirm whether the target is a concise news release or a freer push-article style draft.
    - If any leadership title is unclear, ask the user instead of guessing.
 
 2. Draft or revise:
-   - For news releases, prefer a concise three-part structure and keep it to no more than four paragraphs when possible.
-   - For push-article style writing, allow a fuller narrative, but keep wording formal, practical, and suitable for a university official website or school publicity channel.
+   - For academic, competition, research, meeting, or other formal news releases, use a concise three-paragraph structure by default: what happened, what results or outcomes were achieved, and what the participation means or what was gained.
+   - Keep formal news short and direct. Emphasize that New Materials teachers and students participated, plus their results and gains. Avoid long exposition that leadership reviewers are likely to delete.
+   - For class-style, youth-style, or group-character showcase push articles, allow fuller content and a more lively tone when appropriate.
    - Make the title specific, professional, and aligned with the topic.
    - Preserve all factual information from the user's source material.
 

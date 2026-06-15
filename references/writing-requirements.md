@@ -13,8 +13,15 @@ Source: `C:\FIRST-CC\学校推文\新材料学院宣传部新闻稿撰写要求.
 
 ## Writing Rules
 
+- Every news article must contain the three core news elements: time, location, and event. Do not draft a publishable news release until these are known or explicitly marked as missing.
 - News releases should use a concise 总-分-总 structure where possible. Keep to three paragraphs when possible and no more than four paragraphs for concise news briefs.
+- Academic, competition, research, meeting, or other formal news should usually be short and direct. A practical three-paragraph structure is:
+  - Paragraph 1: State the time, location, event, and who participated.
+  - Paragraph 2: State the key process, results, awards, outcomes, or concrete achievements.
+  - Paragraph 3: State the significance, learning gains, or next-step attitude briefly.
+- For academic news, focus on participation, results, and gains. Avoid lengthy background, overly decorative language, and repeated praise, because reviewers may delete long sections.
 - Push-article style drafts may be longer and more flexible, but should still be formal, accurate, and suitable for school publication.
+- Class-style or group-character showcase push articles may be fuller and slightly more lively, as long as facts remain accurate and the tone remains appropriate for school publication.
 - Leadership titles must use standardized descriptions. Acceptable patterns include:
   - 学院党组织负责人
   - 教学工作负责人
