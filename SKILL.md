@@ -37,6 +37,7 @@ The original source document is stored at `assets/新材料学院宣传部新闻
    - Insert or mention images at their corresponding positions in the article.
    - Caption images concisely and accurately.
    - Name original image files in article order as `图1`, `图2`, `图3`, etc.
+   - Put the original image files in the same output directory as the Word document. Do not place them in a separate image subfolder.
 
 5. Final check:
    - Ensure the article contains an exact date and does not use vague wording such as `近日`.
@@ -54,5 +55,6 @@ When the user asks to prepare submission materials, provide:
 - Word document naming: `【YYYYMMDD】文章标题名称`
 - Zip/package naming: the same date-title name
 - Image naming: `图1`, `图2`, `图3`, in the order used in the article
+- Package layout: Word document and original image files must be side by side at the package root, not inside an `原图` or image subfolder.
 
 Do not claim a document is ready for submission unless the exact date, title, images, and required review information have been verified.
