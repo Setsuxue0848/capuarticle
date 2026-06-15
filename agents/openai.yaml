@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAPUarticle"
+  short_description: "新材料学院新闻稿和学校推文写作润色与交付检查规范指南"
+  default_prompt: "Use $capuarticle to draft, polish, or check a New Materials college school article."
